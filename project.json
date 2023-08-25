@@ -1,0 +1,5 @@
+{
+    "name": "WebAPI",
+    "version": "0.0.1",
+    "token_file": ".token"
+}
